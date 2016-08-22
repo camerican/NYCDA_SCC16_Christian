@@ -1,0 +1,47 @@
+h1{
+	color: blue;
+	text-align: center;
+}
+h2{
+	color: blue;	
+	text-align: center;
+}
+
+div{
+	display: inline-block;
+}
+
+h1{
+	color: blue;
+	background-color: yellow;
+}
+
+table{
+	background-color: orange;
+	margin-bottom: 10px;
+}
+
+.moveright{
+	float: right;
+	margin: 0px 0px 10px 10px;
+	padding: 30px;
+}
+
+img.large{
+	width: 500px;
+	height: 500px;
+}
+img.medium{
+	width: 500px;
+	height: 500px;
+}
+nav ul li {
+	display: inline-block;	
+	padding: 0;
+	margin-right: 150px;
+	margin-left:150px;
+	margin-top: 0;
+	color: white;
+	list-style: none;
+	font-size: 16px;
+}
